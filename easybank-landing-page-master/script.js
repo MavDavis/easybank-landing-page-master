@@ -1,3 +1,4 @@
+AOS.init();
 const btn = document.querySelector('#btn');
 const navbar =  document.querySelector('.navbar');
 const toggleFunction = () => {
